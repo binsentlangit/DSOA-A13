@@ -1,0 +1,6 @@
+id=layercaching
+name=Layer Caching
+version=v1.0
+versionCode=010
+author=@nonosvaimos
+description=Enable Layer Caching and adjust the timeout.
