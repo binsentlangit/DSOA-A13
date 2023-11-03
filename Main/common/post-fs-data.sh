@@ -6,6 +6,8 @@
 
 resetprop -n tombstoned.max_tombstone_count 0
 resetprop -n persist.sys.dalvik.multithread true
+resetprop -n ro.surface_flinger.enable_layer_caching true
+resetprop -n debug.sf.layer_caching_active_layer_timeout_ms 1000
 
 ####################################
 # Disable shit
