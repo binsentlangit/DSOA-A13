@@ -84,6 +84,8 @@ chmod 000 /data/vendor/wlan_logs
 ####################################
 su -c "pm disable com.google.android.gms/com.google.android.gms.mdm.receivers.MdmDeviceAdminReceiver"
 
+su -c "pm disable com.google.android.apps.wellbeing"
+
 ####################################
 # Kernel Debugging (thx to KTSR)
 ####################################
