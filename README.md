@@ -1,1 +1,1 @@
-LASKDASKDADKASJLk
+Disable Useless Stuff on Android
